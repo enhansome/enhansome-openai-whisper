@@ -21,7 +21,7 @@
             "last_commit": "2026-08-07T18:59:53Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52859
+            "stars": 52883
           }
         },
         {
@@ -35,7 +35,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24883
+            "stars": 24898
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23554
+            "stars": 23566
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 20932
+            "stars": 20948
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-05-30T18:41:03Z",
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2280
+            "stars": 2281
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-07-02T16:59:06Z",
             "owner": "schibsted",
             "repo": "WAAS",
-            "stars": 2074
+            "stars": 2075
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2024-01-16T09:18:11Z",
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1446
+            "stars": 1445
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2024-04-30T12:12:27Z",
             "owner": "chengsokdara",
             "repo": "use-whisper",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 574
+            "stars": 576
           }
         },
         {
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:58:08.126Z",
+    "last_updated": "2026-08-14T07:54:47.084Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
