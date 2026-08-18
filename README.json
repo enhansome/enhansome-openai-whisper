@@ -21,7 +21,7 @@
             "last_commit": "2026-08-14T19:16:10Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52945
+            "stars": 52976
           }
         },
         {
@@ -35,7 +35,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24947
+            "stars": 24965
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23603
+            "stars": 23616
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21001
+            "stars": 21018
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2024-10-05T15:59:47Z",
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7782
+            "stars": 7784
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-04-20T01:29:19Z",
             "owner": "absadiki",
             "repo": "subsai",
-            "stars": 1681
+            "stars": 1680
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 585
+            "stars": 590
           }
         },
         {
@@ -340,7 +340,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-09-10T07:09:17Z",
+            "last_commit": "2026-08-17T11:12:05Z",
             "owner": "Majdoddin",
             "repo": "nlp",
             "stars": 490
@@ -382,7 +382,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T22:10:52Z",
+            "last_commit": "2026-08-17T21:18:30Z",
             "owner": "GeiserX",
             "repo": "whisper-subs",
             "stars": 91
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:26:59.069Z",
+    "last_updated": "2026-08-18T07:09:38.584Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
