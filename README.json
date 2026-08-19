@@ -1,27 +1,21 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
           "title": "whisper.cpp - Port of OpenAI's Whisper model in C/C++",
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "pywhispercpp - Python bindings for whisper.cpp",
-              "description": null,
-              "children": []
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-14T19:16:10Z",
+            "last_commit": "2026-08-18T12:33:22Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52976
+            "stars": 53025
           }
         },
         {
@@ -31,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600368121,
             "language": "Python",
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24965
+            "stars": 24980
           }
         },
         {
@@ -45,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608634021,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4682
+            "stars": 4680
           }
         },
         {
@@ -59,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588543419,
             "language": "Python",
             "last_commit": "2026-08-17T06:41:29Z",
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2838
+            "stars": 2841
           }
         },
         {
@@ -73,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542117324,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-02T11:12:10Z",
             "owner": "MiscellaneousStuff",
@@ -87,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 543577489,
             "language": "Jupyter Notebook",
             "last_commit": "2023-11-06T10:15:05Z",
             "owner": "zhuzilin",
@@ -101,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 542345274,
             "language": "C",
             "last_commit": "2023-08-28T21:26:54Z",
             "owner": "moonshine-ai",
@@ -120,6 +120,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 579612168,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-06-19T14:07:03Z",
                 "owner": "ailia-ai",
@@ -130,24 +131,19 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 579612168,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-19T14:07:03Z",
             "owner": "ailia-ai",
             "repo": "whisper-export",
             "stars": 15
           }
-        },
-        {
-          "node_type": "item",
-          "title": "whisper_onnx",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Model Variants"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -156,11 +152,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576103395,
             "language": "Python",
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23616
+            "stars": 23642
           }
         },
         {
@@ -170,11 +167,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540842713,
             "language": "Python",
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21018
+            "stars": 21030
           }
         },
         {
@@ -189,16 +187,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 565133678,
                 "language": "TypeScript",
                 "last_commit": "2024-10-23T07:09:29Z",
                 "owner": "zcf0508",
                 "repo": "autocut-client",
-                "stars": 339
+                "stars": 338
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 559033997,
             "language": "Python",
             "last_commit": "2024-10-05T15:59:47Z",
             "owner": "mli",
@@ -213,6 +213,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 542943581,
             "language": "Python",
             "last_commit": "2026-05-30T18:41:03Z",
             "owner": "jianfch",
@@ -227,6 +228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 550775432,
             "language": "JavaScript",
             "last_commit": "2026-07-02T16:59:06Z",
             "owner": "schibsted",
@@ -241,6 +243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607457910,
             "language": "Python",
             "last_commit": "2026-04-20T01:29:19Z",
             "owner": "absadiki",
@@ -255,11 +258,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540071672,
             "language": "Python",
             "last_commit": "2024-01-16T09:18:11Z",
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1445
+            "stars": 1446
           }
         },
         {
@@ -269,6 +273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544445890,
             "language": "Python",
             "last_commit": "2025-09-12T02:54:11Z",
             "owner": "saharmor",
@@ -283,6 +288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540469444,
             "language": "Python",
             "last_commit": "2024-07-04T07:19:05Z",
             "owner": "mallorbc",
@@ -297,6 +303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610373872,
             "language": "TypeScript",
             "last_commit": "2024-04-30T12:12:27Z",
             "owner": "chengsokdara",
@@ -311,6 +318,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 540386296,
             "language": "Python",
             "last_commit": "2023-05-01T08:44:25Z",
             "owner": "shirayu",
@@ -325,11 +333,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035884228,
             "language": "JavaScript",
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 590
+            "stars": 596
           }
         },
         {
@@ -339,6 +348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 546784071,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T11:12:05Z",
             "owner": "Majdoddin",
@@ -353,6 +363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544273829,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-23T19:24:04Z",
             "owner": "ArthurFDLR",
@@ -367,6 +378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620238190,
             "language": "Python",
             "last_commit": "2024-10-30T08:34:04Z",
             "owner": "Wordcab",
@@ -381,11 +393,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1110874237,
             "language": "C#",
-            "last_commit": "2026-08-17T21:18:30Z",
+            "last_commit": "2026-08-19T07:04:38Z",
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -400,6 +413,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 542345274,
                 "language": "C",
                 "last_commit": "2023-08-28T21:26:54Z",
                 "owner": "moonshine-ai",
@@ -414,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:09:38.584Z",
+    "last_updated": "2026-08-19T07:09:58.342Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
