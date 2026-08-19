@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T12:33:22Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53025
+            "stars": 53030
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24980
+            "stars": 24990
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T06:41:29Z",
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2841
+            "stars": 2840
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23642
+            "stars": 23645
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21030
+            "stars": 21033
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 596
+            "stars": 599
           }
         },
         {
@@ -395,7 +395,7 @@
             "archived": false,
             "id": 1110874237,
             "language": "C#",
-            "last_commit": "2026-08-19T07:04:38Z",
+            "last_commit": "2026-08-19T08:40:44Z",
             "owner": "GeiserX",
             "repo": "whisper-subs",
             "stars": 92
@@ -428,8 +428,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:09:58.342Z",
+    "last_updated": "2026-08-19T12:43:31.889Z",
     "original_repository": "ancs21/awesome-openai-whisper",
+    "original_repository_id": 551217288,
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
     "enhanced_repository_description": null,
