@@ -12,10 +12,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-21T06:57:40Z",
+            "last_commit": "2026-08-22T05:14:12Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53068
+            "stars": 53095
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25016
+            "stars": 25027
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23669
+            "stars": 23687
           }
         },
         {
@@ -169,10 +169,10 @@
             "archived": false,
             "id": 540842713,
             "language": "Python",
-            "last_commit": "2026-08-10T09:43:12Z",
+            "last_commit": "2026-08-22T06:49:22Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21054
+            "stars": 21073
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2024-10-05T15:59:47Z",
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7785
+            "stars": 7786
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 625
+            "stars": 637
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-19T12:57:19Z",
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:12:09.897Z",
+    "last_updated": "2026-08-22T07:04:39.740Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_id": 551217288,
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
