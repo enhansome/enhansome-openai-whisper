@@ -5,6 +5,55 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Whisper Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537603333,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107866
+          }
+        }
+      ],
+      "title": "General Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Whisper Playground",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544445890,
+                "language": "Python",
+                "last_commit": "2025-09-12T02:54:11Z",
+                "owner": "saharmor",
+                "repo": "whisper-playground",
+                "stars": 834
+              }
+            }
+          ]
+        }
+      ],
+      "title": "API Ready / Playground / Demo"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "whisper.cpp - Port of OpenAI's Whisper model in C/C++",
           "description": null,
           "children": [],
@@ -12,10 +61,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-24T06:02:31Z",
+            "last_commit": "2026-08-24T10:36:17Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53127
+            "stars": 53136
           }
         },
         {
@@ -30,7 +79,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25057
+            "stars": 25061
           }
         },
         {
@@ -157,7 +206,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23713
+            "stars": 23718
           }
         },
         {
@@ -172,7 +221,7 @@
             "last_commit": "2026-08-23T16:46:15Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21095
+            "stars": 21106
           }
         },
         {
@@ -428,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:32:43.841Z",
+    "last_updated": "2026-08-24T14:40:00.327Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_id": 551217288,
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
