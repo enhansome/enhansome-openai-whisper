@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107866
+            "stars": 107899
           }
         }
       ],
@@ -31,7 +31,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source",
+              "title": "saharmor/whisper-playground",
               "description": null,
               "children": [],
               "repo_info": {
@@ -64,7 +64,7 @@
             "last_commit": "2026-08-24T10:36:17Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53136
+            "stars": 53154
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25061
+            "stars": 25065
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23718
+            "stars": 23724
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-23T16:46:15Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21106
+            "stars": 21113
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-10-05T15:59:47Z",
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7789
+            "stars": 7790
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-09T08:21:58Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 642
+            "stars": 644
           }
         },
         {
@@ -444,7 +444,7 @@
             "archived": false,
             "id": 1110874237,
             "language": "C#",
-            "last_commit": "2026-08-19T12:57:19Z",
+            "last_commit": "2026-08-24T21:29:57Z",
             "owner": "GeiserX",
             "repo": "whisper-subs",
             "stars": 94
@@ -457,7 +457,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source",
+              "title": "moonshine-ai/openai-whisper",
               "description": null,
               "children": [],
               "repo_info": {
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:00.327Z",
+    "last_updated": "2026-08-25T06:31:53.280Z",
     "original_repository": "ancs21/awesome-openai-whisper",
     "original_repository_id": 551217288,
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
