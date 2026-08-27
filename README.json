@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107952
+            "stars": 108003
           }
         }
       ],
@@ -64,7 +64,7 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53188
+            "stars": 53221
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25088
+            "stars": 25110
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4682
+            "stars": 4681
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2023-11-06T10:15:05Z",
             "owner": "zhuzilin",
             "repo": "whisper-openvino",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-19T14:07:03Z",
                 "owner": "ailia-ai",
                 "repo": "whisper-export",
-                "stars": 15
+                "stars": 16
               }
             }
           ],
@@ -185,7 +185,7 @@
             "last_commit": "2026-06-19T14:07:03Z",
             "owner": "ailia-ai",
             "repo": "whisper-export",
-            "stars": 15
+            "stars": 16
           }
         }
       ],
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23750
+            "stars": 23773
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-23T16:46:15Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21132
+            "stars": 21157
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-10-05T15:59:47Z",
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7790
+            "stars": 7791
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2024-07-04T07:19:05Z",
             "owner": "mallorbc",
             "repo": "whisper_mic",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -384,10 +384,10 @@
             "archived": false,
             "id": 1035884228,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T07:07:51Z",
+            "last_commit": "2026-08-26T19:47:47Z",
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 648
+            "stars": 650
           }
         },
         {
@@ -477,9 +477,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:12:51.118Z",
-    "original_repository": "ancs21/awesome-openai-whisper",
-    "original_repository_id": 551217288,
+    "last_updated": "2026-08-27T11:56:10.832Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 551217288,
+      "language": null,
+      "last_commit": "2026-05-22T16:33:11Z",
+      "owner": "ancs21",
+      "repo": "awesome-openai-whisper",
+      "stars": 107
+    },
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
     "enhanced_repository_description": null,
