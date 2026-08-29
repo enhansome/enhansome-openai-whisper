@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "homepage": null,
             "id": 537603333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:18:29Z",
+            "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108072
+            "stars": 108089,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         }
@@ -37,12 +42,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/",
+                "homepage": null,
                 "id": 544445890,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-12T02:54:11Z",
+                "open_issues": 16,
                 "owner": "saharmor",
                 "repo": "whisper-playground",
-                "stars": 835
+                "stars": 835,
+                "topics": [
+                  "machine-learning",
+                  "openai",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T18:49:41.627Z"
             }
@@ -61,12 +77,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "homepage": null,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-25T13:11:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:28:05Z",
+            "open_issues": 1238,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53258
+            "stars": 53263,
+            "topics": [
+              "inference",
+              "openai",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -77,12 +105,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster Whisper transcription with CTranslate2",
+            "homepage": null,
             "id": 600368121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-19T14:40:46Z",
+            "open_issues": 319,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25126
+            "stars": 25129,
+            "topics": [
+              "deep-learning",
+              "inference",
+              "openai",
+              "quantization",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -93,12 +135,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.",
+            "homepage": null,
             "id": 608634021,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-03T12:12:52Z",
+            "open_issues": 138,
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4680
+            "stars": 4680,
+            "topics": [
+              "deep-learning",
+              "jax",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -109,12 +162,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multilingual Automatic Speech Recognition with word-level timestamps and confidence",
+            "homepage": null,
             "id": 588543419,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T06:41:29Z",
+            "open_issues": 49,
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2841
+            "stars": 2841,
+            "topics": [
+              "asr",
+              "attention-is-all-you-need",
+              "attention-mechanism",
+              "attention-model",
+              "attention-network",
+              "attention-seq2seq",
+              "attention-visualization",
+              "deep-learning",
+              "machine-learning",
+              "multilingual-models",
+              "python",
+              "python3",
+              "pytorch",
+              "speaker-diarization",
+              "speech",
+              "speech-processing",
+              "speech-recognition",
+              "speech-to-text",
+              "transformers",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -125,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improving transcription performance of OpenAI Whisper for CPU based deployment",
+            "homepage": null,
             "id": 542117324,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-11-02T11:12:10Z",
+            "open_issues": 10,
             "owner": "MiscellaneousStuff",
             "repo": "openai-whisper-cpu",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -141,12 +225,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openvino version of openai/whisper",
+            "homepage": null,
             "id": 543577489,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-06T10:15:05Z",
+            "open_issues": 0,
             "owner": "zhuzilin",
             "repo": "whisper-openvino",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "asr",
+              "openvino",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -157,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "homepage": null,
             "id": 542345274,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-08-28T21:26:54Z",
+            "open_issues": 28,
             "owner": "moonshine-ai",
             "repo": "openai-whisper",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -178,24 +276,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openvino version of openai/whisper",
+                "homepage": null,
                 "id": 579612168,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-19T14:07:03Z",
+                "open_issues": 1,
                 "owner": "ailia-ai",
                 "repo": "whisper-export",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:49:41.627Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "openvino version of openai/whisper",
+            "homepage": null,
             "id": 579612168,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-06-19T14:07:03Z",
+            "open_issues": 1,
             "owner": "ailia-ai",
             "repo": "whisper-export",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         }
@@ -212,12 +320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+            "homepage": null,
             "id": 576103395,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-13T08:30:07Z",
+            "open_issues": 216,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23789
+            "stars": 23792,
+            "topics": [
+              "asr",
+              "speech",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -228,12 +347,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "homepage": "https://chidiwilliams.github.io/buzz",
             "id": 540842713,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:01:40Z",
+            "open_issues": 18,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21176
+            "stars": 21180,
+            "topics": [
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -249,24 +375,40 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoCut Client",
+                "homepage": null,
                 "id": 565133678,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-23T07:09:29Z",
+                "open_issues": 21,
                 "owner": "zcf0508",
                 "repo": "autocut-client",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "autocut",
+                  "clip",
+                  "electron",
+                  "video",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T18:49:41.627Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "用文本编辑器剪视频",
+            "homepage": null,
             "id": 559033997,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-05T15:59:47Z",
+            "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7791
+            "stars": 7791,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -277,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Transcription, forced alignment, and audio indexing with OpenAI's Whisper",
+            "homepage": null,
             "id": 542943581,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T18:41:03Z",
+            "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2281
+            "stars": 2282,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -293,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Whisper as a Service (GUI and API with queuing for OpenAI Whisper)",
+            "homepage": null,
             "id": 550775432,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T16:59:06Z",
+            "open_issues": 34,
             "owner": "schibsted",
             "repo": "WAAS",
-            "stars": 2075
+            "stars": 2075,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -309,12 +461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️",
+            "homepage": "https://absadiki.github.io/subsai/",
             "id": 607457910,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-20T01:29:19Z",
+            "open_issues": 77,
             "owner": "absadiki",
             "repo": "subsai",
-            "stars": 1682
+            "stars": 1682,
+            "topics": [
+              "cli",
+              "subtitles",
+              "subtitles-generator",
+              "webui",
+              "whisper",
+              "whisper-ai"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -325,12 +489,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
+            "homepage": null,
             "id": 540071672,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-16T09:18:11Z",
+            "open_issues": 24,
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1446
+            "stars": 1446,
+            "topics": [
+              "ffmpeg",
+              "openai",
+              "openai-whisper",
+              "subtitles",
+              "subtitles-generated",
+              "transcribe",
+              "whisper",
+              "youtube",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -341,12 +520,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/",
+            "homepage": null,
             "id": 544445890,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-12T02:54:11Z",
+            "open_issues": 16,
             "owner": "saharmor",
             "repo": "whisper-playground",
-            "stars": 835
+            "stars": 835,
+            "topics": [
+              "machine-learning",
+              "openai",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -357,12 +547,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project that allows one to use a microphone with OpenAI whisper.",
+            "homepage": null,
             "id": 540469444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-04T07:19:05Z",
+            "open_issues": 27,
             "owner": "mallorbc",
             "repo": "whisper_mic",
-            "stars": 787
+            "stars": 787,
+            "topics": [
+              "microphone",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper",
+              "whisper-ai",
+              "whisper-api"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -373,12 +575,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in",
+            "homepage": "https://x.com/homi3kh",
             "id": 610373872,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-30T12:12:27Z",
+            "open_issues": 36,
             "owner": "chengsokdara",
             "repo": "use-whisper",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "api",
+              "hook",
+              "openai",
+              "react",
+              "real-time",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -389,12 +603,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Streaming transcriber with whisper",
+            "homepage": null,
             "id": 540386296,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-01T08:44:25Z",
+            "open_issues": 6,
             "owner": "shirayu",
             "repo": "whispering",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "automatic-speech-recognition",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -405,12 +627,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.",
+            "homepage": null,
             "id": 1035884228,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:47:47Z",
+            "open_issues": 0,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 654
+            "stars": 655,
+            "topics": [
+              "desktop-app",
+              "electron",
+              "hy-mt2",
+              "javascript",
+              "local-first",
+              "machine-translation",
+              "offline",
+              "privacy",
+              "speech-to-text",
+              "srt",
+              "subtitle-generator",
+              "subtitles",
+              "translation",
+              "video",
+              "whisper",
+              "whisper-cpp"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -421,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 546784071,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:12:05Z",
+            "open_issues": 2,
             "owner": "Majdoddin",
             "repo": "nlp",
-            "stars": 489
+            "stars": 489,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -437,12 +686,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔉 Youtube Videos Transcription with OpenAI's Whisper",
+            "homepage": "https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb",
             "id": 544273829,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-23T19:24:04Z",
+            "open_issues": 3,
             "owner": "ArthurFDLR",
             "repo": "whisper-youtube",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "automatic-speech-recognition",
+              "colab-notebook",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -453,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬 ASR FastAPI server using faster-whisper and Multi-Scale Auto-Tuning Spectral Clustering for diarization.",
+            "homepage": "https://wordcab.github.io/wordcab-transcribe/",
             "id": 620238190,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-30T08:34:04Z",
+            "open_issues": 5,
             "owner": "Wordcab",
             "repo": "wordcab-transcribe",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -469,12 +736,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server",
+            "homepage": null,
             "id": 1110874237,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T21:29:57Z",
+            "open_issues": 2,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 94
+            "stars": 95,
+            "topics": [
+              "accessibility",
+              "ai",
+              "automation",
+              "csharp",
+              "dotnet",
+              "hacktoberfest",
+              "homelab",
+              "jellyfin",
+              "jellyfin-plugin",
+              "media-management",
+              "media-server",
+              "open-source",
+              "parakeet",
+              "self-hosted",
+              "speech-to-text",
+              "stt",
+              "subtitles",
+              "transcription",
+              "whisper",
+              "whisper-cpp"
+            ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
         },
@@ -490,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+                "homepage": null,
                 "id": 542345274,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-08-28T21:26:54Z",
+                "open_issues": 28,
                 "owner": "moonshine-ai",
                 "repo": "openai-whisper",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:49:41.627Z"
             }
@@ -506,15 +804,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:49:41.627Z",
+    "last_updated": "2026-08-29T04:58:49.572Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome OpenAI's Whisper",
+      "homepage": null,
       "id": 551217288,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-22T16:33:11Z",
+      "open_issues": 13,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
-      "stars": 107
+      "stars": 107,
+      "topics": [
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "awesome-whisper",
+        "deep-learning",
+        "machine-learning",
+        "openai",
+        "speech",
+        "speech-recognition",
+        "speech-to-text",
+        "state-of-the-art",
+        "whisper"
+      ]
     },
     "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
