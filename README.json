@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108089,
+            "stars": 108106,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -86,7 +86,7 @@
             "open_issues": 1238,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53263,
+            "stars": 53273,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 319,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25129,
+            "stars": 25132,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 216,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23792,
+            "stars": 23797,
             "topics": [
               "asr",
               "speech",
@@ -356,7 +356,7 @@
             "open_issues": 18,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21180,
+            "stars": 21185,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7791,
+            "stars": 7792,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:49.572Z",
+    "last_updated": "2026-08-29T12:44:40.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
