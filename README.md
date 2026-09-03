@@ -4,7 +4,7 @@ A curated list of awesome OpenAI's Whisper
 
 ## General Resources
 
-* [Whisper Code](https://github.com/openai/whisper) ⭐ 108,306 | 🐛 138 | 🌐 Python | 📅 2026-08-31
+* [Whisper Code](https://github.com/openai/whisper) ⭐ 108,353 | 🐛 139 | 🌐 Python | 📅 2026-08-31
 * [Introducing Whisper](https://openai.com/blog/whisper/)
 * [Whisper Paper](https://cdn.openai.com/papers/whisper.pdf)
 * [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
@@ -23,11 +23,11 @@ A curated list of awesome OpenAI's Whisper
 
 ## Model Variants
 
-* [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp) ⭐ 53,373 | 🐛 1,237 | 🌐 C++ | 📅 2026-08-31
+* [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp) ⭐ 53,401 | 🐛 1,241 | 🌐 C++ | 📅 2026-08-31
   * [pywhispercpp -  Python bindings for whisper.cpp ](https://github.com/abdeladim-s/pywhispercpp)
-* [Faster Whisper - reimplementation using CTranslate2 up to 4 times faster](https://github.com/guillaumekln/faster-whisper) ⭐ 25,194 | 🐛 318 | 🌐 Python | 📅 2025-11-19
+* [Faster Whisper - reimplementation using CTranslate2 up to 4 times faster](https://github.com/guillaumekln/faster-whisper) ⭐ 25,209 | 🐛 320 | 🌐 Python | 📅 2025-11-19
 * [Whisper JAX - optimised JAX code, largely built on the hugs Hugging Face Transformers Whisper implementation, over 70x faster](https://github.com/sanchit-gandhi/whisper-jax/) ⭐ 4,679 | 🐛 138 | 🌐 Jupyter Notebook | 📅 2024-04-03
-* [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped) ⭐ 2,841 | 🐛 49 | 🌐 Python | 📅 2026-08-17
+* [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped) ⭐ 2,842 | 🐛 49 | 🌐 Python | 📅 2026-08-17
 * [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) ⭐ 257 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2022-11-02
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino) ⭐ 185 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06
 * [whisper.tflite](https://github.com/usefulsensors/openai-whisper) ⚠️ Archived
@@ -38,23 +38,23 @@ A curated list of awesome OpenAI's Whisper
 
 ## Applications
 
-* [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX) ⭐ 23,852 | 🐛 217 | 🌐 Python | 📅 2026-08-30
-* [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz) ⭐ 21,269 | 🐛 19 | 🌐 Python | 📅 2026-08-28
+* [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX) ⭐ 23,870 | 🐛 217 | 🌐 Python | 📅 2026-08-30
+* [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz) ⭐ 21,285 | 🐛 20 | 🌐 Python | 📅 2026-08-28
 * [AutoCut - generate video subtitles and edit the video by selecting subtitle clips](https://github.com/mli/autocut) ⭐ 7,793 | 🐛 24 | 🌐 Python | 📅 2024-10-05
   * [AutoCut Client](https://github.com/zcf0508/autocut-client) ⭐ 338 | 🐛 21 | 🌐 TypeScript | 📅 2024-10-23
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts) ⚠️ Archived
-* [Whisper as a Service (GUI and API for OpenAI Whisper)](https://github.com/schibsted/WAAS) ⭐ 2,075 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-01
+* [Whisper as a Service (GUI and API for OpenAI Whisper)](https://github.com/schibsted/WAAS) ⭐ 2,075 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-03
 * [🎞️ Subtitles generation tool (Web-UI + CLI + Python package)](https://github.com/abdeladim-s/subsai) ⭐ 1,681 | 🐛 77 | 🌐 Python | 📅 2026-04-20
 * [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper) ⭐ 1,445 | 🐛 24 | 🌐 Python | 📅 2024-01-16
 * [Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper](https://github.com/saharmor/whisper-playground) ⭐ 835 | 🐛 16 | 🌐 Python | 📅 2025-09-12
 * [Whisper Mic - Project that allows one to use a microphone with OpenAI whisper](https://github.com/mallorbc/whisper_mic) ⭐ 787 | 🐛 27 | 🌐 Python | 📅 2024-07-04
 * [React hook for OpenAI Whisper](https://github.com/chengsokdara/use-whisper) ⭐ 786 | 🐛 36 | 🌐 TypeScript | 📅 2024-04-30
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering) ⚠️ Archived
-* [WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)](https://github.com/Blue-B/WhisperSubTranslate) ⭐ 669 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-26
+* [WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)](https://github.com/Blue-B/WhisperSubTranslate) ⭐ 672 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp) ⭐ 489 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-17
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube) ⭐ 419 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-04-23
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2024-10-30
-* [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs) ⭐ 97 | 🐛 3 | 🌐 C# | 📅 2026-09-01
+* [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs) ⭐ 98 | 🐛 2 | 🌐 C# | 📅 2026-09-02
 * [Whisper Webui - WebUI for Whisper that can transcribe and translate audio](https://gitlab.com/aadnk/whisper-webui/)
 * [Subtitle Edit - a subtitle editor supporting audio to text (speech recognition) via Whisper or Vosk/Kaldi](https://www.nikse.dk/subtitleedit)
 * [WEB WHISPER - A light user interface for OpenAI's Whisper right into your browser!](https://codeberg.org/pluja/web-whisper)
@@ -85,4 +85,4 @@ A curated list of awesome OpenAI's Whisper
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
