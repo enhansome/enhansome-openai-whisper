@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 142,
+            "open_issues": 145,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108474,
+            "stars": 108566,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -83,10 +83,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-04T15:36:11Z",
-            "open_issues": 1243,
+            "open_issues": 701,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53458,
+            "stars": 53474,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 320,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25246,
+            "stars": 25259,
             "topics": [
               "deep-learning",
               "inference",
@@ -171,7 +171,7 @@
             "open_issues": 49,
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2842,
+            "stars": 2843,
             "topics": [
               "asr",
               "attention-is-all-you-need",
@@ -329,7 +329,7 @@
             "open_issues": 218,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23899,
+            "stars": 23913,
             "topics": [
               "asr",
               "speech",
@@ -352,11 +352,11 @@
             "id": 540842713,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:42:50Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-06T10:35:10Z",
+            "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21321,
+            "stars": 21351,
             "topics": [
               "whisper"
             ]
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2283,
+            "stars": 2284,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -445,7 +445,7 @@
             "id": 550775432,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:21:08Z",
+            "last_commit": "2026-09-06T05:39:34Z",
             "open_issues": 38,
             "owner": "schibsted",
             "repo": "WAAS",
@@ -498,7 +498,7 @@
             "open_issues": 24,
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1445,
+            "stars": 1444,
             "topics": [
               "ffmpeg",
               "openai",
@@ -636,7 +636,7 @@
             "open_issues": 1,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 675,
+            "stars": 677,
             "topics": [
               "desktop-app",
               "electron",
@@ -745,7 +745,7 @@
             "open_issues": 2,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "accessibility",
               "ai",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:44:02.165Z",
+    "last_updated": "2026-09-06T11:05:44.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -813,7 +813,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-22T16:33:11Z",
-      "open_issues": 13,
+      "open_issues": 15,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
       "stars": 107,
