@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 146,
+            "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108782,
+            "stars": 108828,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -82,11 +82,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:35:34Z",
-            "open_issues": 342,
+            "last_commit": "2026-09-10T10:17:05Z",
+            "open_issues": 341,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53544,
+            "stars": 53576,
             "topics": [
               "inference",
               "openai",
@@ -111,10 +111,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-19T14:40:46Z",
-            "open_issues": 321,
+            "open_issues": 322,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25304,
+            "stars": 25315,
             "topics": [
               "deep-learning",
               "inference",
@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-30T15:40:47Z",
-            "open_issues": 218,
+            "open_issues": 220,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23948,
+            "stars": 23972,
             "topics": [
               "asr",
               "speech",
@@ -356,7 +356,7 @@
             "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21392,
+            "stars": 21421,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7792,
+            "stars": 7794,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2285,
+            "stars": 2286,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -636,7 +636,7 @@
             "open_issues": 1,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 685,
+            "stars": 688,
             "topics": [
               "desktop-app",
               "electron",
@@ -737,11 +737,11 @@
           "repo_info": {
             "archived": false,
             "description": "Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server",
-            "homepage": null,
+            "homepage": "https://geiserx.github.io/whisper-subs/",
             "id": 1110874237,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T23:26:02Z",
+            "last_commit": "2026-09-10T09:40:28Z",
             "open_issues": 3,
             "owner": "GeiserX",
             "repo": "whisper-subs",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:33:38.767Z",
+    "last_updated": "2026-09-10T11:30:08.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
