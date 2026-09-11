@@ -19,7 +19,7 @@
             "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108828,
+            "stars": 108889,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -82,11 +82,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-10T10:17:05Z",
-            "open_issues": 341,
+            "last_commit": "2026-09-11T07:35:25Z",
+            "open_issues": 344,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53576,
+            "stars": 53601,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 322,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25315,
+            "stars": 25339,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 220,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23972,
+            "stars": 23990,
             "topics": [
               "asr",
               "speech",
@@ -356,7 +356,7 @@
             "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21421,
+            "stars": 21438,
             "topics": [
               "whisper"
             ]
@@ -636,7 +636,7 @@
             "open_issues": 1,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 688,
+            "stars": 690,
             "topics": [
               "desktop-app",
               "electron",
@@ -741,8 +741,8 @@
             "id": 1110874237,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T09:40:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-11T09:42:02Z",
+            "open_issues": 4,
             "owner": "GeiserX",
             "repo": "whisper-subs",
             "stars": 99,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:30:08.848Z",
+    "last_updated": "2026-09-11T11:32:12.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
