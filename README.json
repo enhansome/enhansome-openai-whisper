@@ -19,7 +19,7 @@
             "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109135,
+            "stars": 109211,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -86,7 +86,7 @@
             "open_issues": 348,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53677,
+            "stars": 53696,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 323,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25406,
+            "stars": 25423,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 222,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24047,
+            "stars": 24062,
             "topics": [
               "asr",
               "speech",
@@ -353,10 +353,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-12T17:42:39Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21494,
+            "stars": 21522,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7798,
+            "stars": 7800,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2285,
+            "stars": 2284,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -542,34 +542,6 @@
         },
         {
           "node_type": "item",
-          "title": "Whisper Mic - Project that allows one to use a microphone with OpenAI whisper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Project that allows one to use a microphone with OpenAI whisper.",
-            "homepage": null,
-            "id": 540469444,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-07-04T07:19:05Z",
-            "open_issues": 27,
-            "owner": "mallorbc",
-            "repo": "whisper_mic",
-            "stars": 787,
-            "topics": [
-              "microphone",
-              "speech-recognition",
-              "speech-to-text",
-              "whisper",
-              "whisper-ai",
-              "whisper-api"
-            ]
-          },
-          "first_seen": "2026-08-28T18:49:41.627Z"
-        },
-        {
-          "node_type": "item",
           "title": "React hook for OpenAI Whisper",
           "description": null,
           "children": [],
@@ -598,6 +570,34 @@
         },
         {
           "node_type": "item",
+          "title": "Whisper Mic - Project that allows one to use a microphone with OpenAI whisper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Project that allows one to use a microphone with OpenAI whisper.",
+            "homepage": null,
+            "id": 540469444,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-07-04T07:19:05Z",
+            "open_issues": 27,
+            "owner": "mallorbc",
+            "repo": "whisper_mic",
+            "stars": 786,
+            "topics": [
+              "microphone",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper",
+              "whisper-ai",
+              "whisper-api"
+            ]
+          },
+          "first_seen": "2026-08-28T18:49:41.627Z"
+        },
+        {
+          "node_type": "item",
           "title": "WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)",
           "description": null,
           "children": [],
@@ -612,7 +612,7 @@
             "open_issues": 1,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 716,
+            "stars": 727,
             "topics": [
               "desktop-app",
               "electron",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:52:53.652Z",
+    "last_updated": "2026-09-16T11:47:31.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
