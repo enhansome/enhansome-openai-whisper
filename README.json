@@ -19,7 +19,7 @@
             "open_issues": 149,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109269,
+            "stars": 109322,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -82,11 +82,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-15T10:42:26Z",
-            "open_issues": 351,
+            "last_commit": "2026-09-18T10:20:25Z",
+            "open_issues": 344,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53722,
+            "stars": 53746,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 323,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25434,
+            "stars": 25453,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 223,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24077,
+            "stars": 24099,
             "topics": [
               "asr",
               "speech",
@@ -353,10 +353,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-12T17:42:39Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21536,
+            "stars": 21553,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7802,
+            "stars": 7804,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -612,7 +612,7 @@
             "open_issues": 1,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 734,
+            "stars": 737,
             "topics": [
               "desktop-app",
               "electron",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:51:11.128Z",
+    "last_updated": "2026-09-18T11:27:04.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
