@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Whisper Code",
-          "description": null,
+          "description": "openai/whisper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 158,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109874,
+            "stars": 109888,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "saharmor/whisper-playground",
-              "description": null,
+              "description": "saharmor/whisper-playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "whisper.cpp - Port of OpenAI's Whisper model in C/C++",
-          "description": null,
+          "description": "ggml-org/whisper.cpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,11 +82,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:35:46Z",
-            "open_issues": 351,
+            "last_commit": "2026-10-02T13:21:13Z",
+            "open_issues": 349,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54094,
+            "stars": 54102,
             "topics": [
               "inference",
               "openai",
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "Faster Whisper - reimplementation using CTranslate2 up to 4 times faster",
-          "description": null,
+          "description": "SYSTRAN/faster-whisper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,10 +111,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T14:01:34Z",
-            "open_issues": 162,
+            "open_issues": 116,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25674,
+            "stars": 25679,
             "topics": [
               "deep-learning",
               "inference",
@@ -131,7 +131,7 @@
         {
           "node_type": "item",
           "title": "Whisper JAX - optimised JAX code, largely built on the hugs Hugging Face Transformers Whisper implementation, over 70x faster",
-          "description": null,
+          "description": "sanchit-gandhi/whisper-jax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
             "open_issues": 138,
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4681,
+            "stars": 4680,
             "topics": [
               "deep-learning",
               "jax",
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "whisper-timestamped - Whisper with word-level timestamps and confidence",
-          "description": null,
+          "description": "linto-ai/whisper-timestamped",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +200,7 @@
         {
           "node_type": "item",
           "title": "OpenAI Whisper - CPU",
-          "description": null,
+          "description": "MiscellaneousStuff/openai-whisper-cpu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Whisper OpenVINO",
-          "description": null,
+          "description": "zhuzilin/whisper-openvino",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,7 +246,7 @@
         {
           "node_type": "item",
           "title": "whisper.tflite",
-          "description": null,
+          "description": "moonshine-ai/openai-whisper",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -267,12 +267,12 @@
         {
           "node_type": "item",
           "title": "whisper-export - openvino version of openai/whisper",
-          "description": null,
+          "description": "ailia-ai/whisper-export",
           "children": [
             {
               "node_type": "item",
               "title": "onnx-export",
-              "description": null,
+              "description": "ailia-ai/whisper-export",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +316,7 @@
         {
           "node_type": "item",
           "title": "WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.",
-          "description": null,
+          "description": "m-bain/whisperX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -329,7 +329,7 @@
             "open_issues": 230,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24334,
+            "stars": 24340,
             "topics": [
               "asr",
               "speech",
@@ -343,7 +343,7 @@
         {
           "node_type": "item",
           "title": "buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper",
-          "description": null,
+          "description": "chidiwilliams/buzz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
             "open_issues": 20,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21796,
+            "stars": 21803,
             "topics": [
               "whisper"
             ]
@@ -366,12 +366,12 @@
         {
           "node_type": "item",
           "title": "AutoCut - generate video subtitles and edit the video by selecting subtitle clips",
-          "description": null,
+          "description": "mli/autocut",
           "children": [
             {
               "node_type": "item",
               "title": "AutoCut Client",
-              "description": null,
+              "description": "zcf0508/autocut-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "stable-ts - Stabilizing Timestamps for Whisper",
-          "description": null,
+          "description": "jianfch/stable-ts",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "Whisper as a Service (GUI and API for OpenAI Whisper)",
-          "description": null,
+          "description": "schibsted/WAAS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "🎞️ Subtitles generation tool (Web-UI + CLI + Python package)",
-          "description": null,
+          "description": "absadiki/subsai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,7 +485,7 @@
         {
           "node_type": "item",
           "title": "Automatic YouTube subtitle generation",
-          "description": null,
+          "description": "m1guelpf/yt-whisper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,7 +516,7 @@
         {
           "node_type": "item",
           "title": "Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper",
-          "description": null,
+          "description": "saharmor/whisper-playground",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "React hook for OpenAI Whisper",
-          "description": null,
+          "description": "chengsokdara/use-whisper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -571,7 +571,7 @@
         {
           "node_type": "item",
           "title": "Whisper Mic - Project that allows one to use a microphone with OpenAI whisper",
-          "description": null,
+          "description": "mallorbc/whisper_mic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -599,7 +599,7 @@
         {
           "node_type": "item",
           "title": "WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)",
-          "description": null,
+          "description": "Blue-B/WhisperSubTranslate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "whispering - Streaming transcriber with whisper",
-          "description": null,
+          "description": "shirayu/whispering",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -661,7 +661,7 @@
         {
           "node_type": "item",
           "title": "Speaker Identification - Pyannote plays and Whisper rhymes",
-          "description": null,
+          "description": "Majdoddin/nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -682,7 +682,7 @@
         {
           "node_type": "item",
           "title": "whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper",
-          "description": null,
+          "description": "ArthurFDLR/whisper-youtube",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": "💬 ASR FastAPI",
-          "description": null,
+          "description": "Wordcab/wordcab-transcribe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp",
-          "description": null,
+          "description": "GeiserX/whisper-subs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -741,7 +741,7 @@
             "id": 1110874237,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T16:32:56Z",
+            "last_commit": "2026-10-03T03:25:21Z",
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "whisper-subs",
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "moonshine-ai/openai-whisper",
-              "description": null,
+              "description": "moonshine-ai/openai-whisper",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:49:24.549Z",
+    "last_updated": "2026-10-03T04:59:11.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
