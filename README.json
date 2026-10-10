@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 167,
+            "open_issues": 169,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110197,
+            "stars": 110268,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -86,7 +86,7 @@
             "open_issues": 353,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54244,
+            "stars": 54266,
             "topics": [
               "inference",
               "openai",
@@ -110,11 +110,11 @@
             "id": 600368121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T20:10:47Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-10T03:39:43Z",
+            "open_issues": 30,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25773,
+            "stars": 25793,
             "topics": [
               "deep-learning",
               "inference",
@@ -171,7 +171,7 @@
             "open_issues": 52,
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2852,
+            "stars": 2853,
             "topics": [
               "asr",
               "attention-is-all-you-need",
@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-26T20:53:59Z",
-            "open_issues": 232,
+            "open_issues": 230,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24435,
+            "stars": 24451,
             "topics": [
               "asr",
               "speech",
@@ -353,10 +353,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T08:35:54Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21893,
+            "stars": 21906,
             "topics": [
               "whisper"
             ]
@@ -384,7 +384,7 @@
                 "open_issues": 21,
                 "owner": "zcf0508",
                 "repo": "autocut-client",
-                "stars": 338,
+                "stars": 337,
                 "topics": [
                   "autocut",
                   "clip",
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7820,
+            "stars": 7821,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -445,7 +445,7 @@
             "id": 550775432,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T20:54:10Z",
+            "last_commit": "2026-10-09T18:41:48Z",
             "open_issues": 39,
             "owner": "schibsted",
             "repo": "WAAS",
@@ -470,7 +470,7 @@
             "open_issues": 77,
             "owner": "absadiki",
             "repo": "subsai",
-            "stars": 1678,
+            "stars": 1679,
             "topics": [
               "cli",
               "subtitles",
@@ -741,11 +741,11 @@
             "id": 1110874237,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T08:56:20Z",
+            "last_commit": "2026-10-10T01:09:54Z",
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "accessibility",
               "ai",
@@ -770,6 +770,41 @@
             ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription",
+          "description": "uttera/uttera-stt-vllm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "High-throughput STT server based on vLLM continuous batching. Whisper-large-v3-turbo and future Transformer STT models. RTF 400x+ on a single RTX 5090.",
+            "homepage": "https://uttera.ai",
+            "id": 1211819559,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-25T11:37:50Z",
+            "open_issues": 0,
+            "owner": "uttera",
+            "repo": "uttera-stt-vllm",
+            "stars": 2,
+            "topics": [
+              "fastapi",
+              "faster-whisper",
+              "local-ai",
+              "open-webui",
+              "openai-whisper",
+              "openclaw",
+              "python",
+              "self-hosted",
+              "speech-to-text",
+              "stt",
+              "uttera",
+              "vllm",
+              "whisper"
+            ]
+          },
+          "first_seen": "2026-10-10T12:42:56.881Z"
         },
         {
           "node_type": "group",
@@ -804,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:27:20.433Z",
+    "last_updated": "2026-10-10T12:42:56.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -812,8 +847,8 @@
       "id": 551217288,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-22T16:33:11Z",
-      "open_issues": 19,
+      "last_commit": "2026-10-10T08:50:46Z",
+      "open_issues": 16,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
       "stars": 107,
@@ -832,7 +867,7 @@
         "whisper"
       ]
     },
-    "original_repository_sha": "52558065ef701440cd60cc08d34def5555944683",
+    "original_repository_sha": "0f1efe94884ea2898f61a6ce8731e93cffd00059",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
     "enhanced_repository_description": null,
     "title": "awesome-openai-whisper with stars"
