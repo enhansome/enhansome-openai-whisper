@@ -19,7 +19,7 @@
             "open_issues": 176,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110986,
+            "stars": 111053,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -83,10 +83,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-19T14:14:00Z",
-            "open_issues": 357,
+            "open_issues": 358,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54532,
+            "stars": 54559,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 20,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26011,
+            "stars": 26044,
             "topics": [
               "deep-learning",
               "inference",
@@ -144,7 +144,7 @@
             "open_issues": 136,
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4677,
+            "stars": 4679,
             "topics": [
               "deep-learning",
               "jax",
@@ -329,7 +329,7 @@
             "open_issues": 213,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24744,
+            "stars": 24776,
             "topics": [
               "asr",
               "speech",
@@ -356,7 +356,7 @@
             "open_issues": 26,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22115,
+            "stars": 22134,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 23,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7834,
+            "stars": 7836,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -498,7 +498,7 @@
             "open_issues": 24,
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1445,
+            "stars": 1446,
             "topics": [
               "ffmpeg",
               "openai",
@@ -556,7 +556,7 @@
             "open_issues": 0,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 812,
+            "stars": 815,
             "topics": [
               "desktop-app",
               "electron",
@@ -574,34 +574,6 @@
               "video",
               "whisper",
               "whisper-cpp"
-            ]
-          },
-          "first_seen": "2026-08-28T18:49:41.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Whisper Mic - Project that allows one to use a microphone with OpenAI whisper",
-          "description": "mallorbc/whisper_mic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Project that allows one to use a microphone with OpenAI whisper.",
-            "homepage": null,
-            "id": 540469444,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-07-04T07:19:05Z",
-            "open_issues": 27,
-            "owner": "mallorbc",
-            "repo": "whisper_mic",
-            "stars": 787,
-            "topics": [
-              "microphone",
-              "speech-recognition",
-              "speech-to-text",
-              "whisper",
-              "whisper-ai",
-              "whisper-api"
             ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -630,6 +602,34 @@
               "react",
               "real-time",
               "whisper"
+            ]
+          },
+          "first_seen": "2026-08-28T18:49:41.627Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper Mic - Project that allows one to use a microphone with OpenAI whisper",
+          "description": "mallorbc/whisper_mic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Project that allows one to use a microphone with OpenAI whisper.",
+            "homepage": null,
+            "id": 540469444,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-07-04T07:19:05Z",
+            "open_issues": 27,
+            "owner": "mallorbc",
+            "repo": "whisper_mic",
+            "stars": 786,
+            "topics": [
+              "microphone",
+              "speech-recognition",
+              "speech-to-text",
+              "whisper",
+              "whisper-ai",
+              "whisper-api"
             ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:01:40.189Z",
+    "last_updated": "2026-10-22T12:04:29.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
