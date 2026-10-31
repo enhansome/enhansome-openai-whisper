@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 180,
+            "open_issues": 179,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111577,
+            "stars": 111635,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -83,10 +83,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-30T05:51:01Z",
-            "open_issues": 359,
+            "open_issues": 363,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54795,
+            "stars": 54818,
             "topics": [
               "inference",
               "openai",
@@ -110,11 +110,11 @@
             "id": 600368121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T07:17:13Z",
+            "last_commit": "2026-10-30T23:06:18Z",
             "open_issues": 19,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26322,
+            "stars": 26346,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 214,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24944,
+            "stars": 24969,
             "topics": [
               "asr",
               "speech",
@@ -352,11 +352,11 @@
             "id": 540842713,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T12:02:10Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-30T18:26:55Z",
+            "open_issues": 24,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22284,
+            "stars": 22309,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 23,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7840,
+            "stars": 7839,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -553,10 +553,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T13:33:45Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "desktop-app",
               "electron",
@@ -594,7 +594,7 @@
             "open_issues": 27,
             "owner": "mallorbc",
             "repo": "whisper_mic",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "microphone",
               "speech-recognition",
@@ -773,6 +773,43 @@
         },
         {
           "node_type": "item",
+          "title": "voiceio - Offline voice dictation for Linux that types into the focused app on Wayland and X11, using Whisper (faster-whisper) or Parakeet",
+          "description": "Hugo0/voiceio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Voice dictation for Linux that learns your voice. Local, offline, MIT. Parakeet or Whisper, streams into any app on Wayland and X11 (GNOME, KDE, Hyprland, sway).",
+            "homepage": "https://voiceio.dev",
+            "id": 1176188387,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-30T08:41:10Z",
+            "open_issues": 1,
+            "owner": "Hugo0",
+            "repo": "voiceio",
+            "stars": 17,
+            "topics": [
+              "asr",
+              "dictation",
+              "gnome",
+              "ibus",
+              "linux",
+              "offline",
+              "parakeet",
+              "privacy",
+              "python",
+              "speech-to-text",
+              "voice-recognition",
+              "voice-typing",
+              "wayland",
+              "whisper",
+              "x11"
+            ]
+          },
+          "first_seen": "2026-10-31T12:46:36.826Z"
+        },
+        {
+          "node_type": "item",
           "title": "Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription",
           "description": "uttera/uttera-stt-vllm",
           "children": [],
@@ -839,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:10:35.467Z",
+    "last_updated": "2026-10-31T12:46:36.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -847,8 +884,8 @@
       "id": 551217288,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-10T08:50:46Z",
-      "open_issues": 21,
+      "last_commit": "2026-10-31T01:50:38Z",
+      "open_issues": 22,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
       "stars": 108,
@@ -867,7 +904,7 @@
         "whisper"
       ]
     },
-    "original_repository_sha": "0f1efe94884ea2898f61a6ce8731e93cffd00059",
+    "original_repository_sha": "ca8a2b2c8ccdc638c2ea98e62c9d5b5faef9b1ae",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
     "enhanced_repository_description": null,
     "title": "awesome-openai-whisper with stars"
