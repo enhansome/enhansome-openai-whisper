@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111700,
+            "stars": 111778,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -86,7 +86,7 @@
             "open_issues": 363,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54837,
+            "stars": 54867,
             "topics": [
               "inference",
               "openai",
@@ -110,11 +110,11 @@
             "id": 600368121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T18:02:17Z",
+            "last_commit": "2026-11-02T11:19:13Z",
             "open_issues": 19,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26365,
+            "stars": 26406,
             "topics": [
               "deep-learning",
               "inference",
@@ -171,7 +171,7 @@
             "open_issues": 52,
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2856,
+            "stars": 2858,
             "topics": [
               "asr",
               "attention-is-all-you-need",
@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-22T14:53:44Z",
-            "open_issues": 214,
+            "open_issues": 216,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 24990,
+            "stars": 25013,
             "topics": [
               "asr",
               "speech",
@@ -352,11 +352,11 @@
             "id": 540842713,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T09:20:19Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-02T08:21:55Z",
+            "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22338,
+            "stars": 22366,
             "topics": [
               "whisper"
             ]
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2281,
+            "stars": 2280,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -470,7 +470,7 @@
             "open_issues": 77,
             "owner": "absadiki",
             "repo": "subsai",
-            "stars": 1678,
+            "stars": 1679,
             "topics": [
               "cli",
               "subtitles",
@@ -556,7 +556,7 @@
             "open_issues": 0,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 824,
+            "stars": 827,
             "topics": [
               "desktop-app",
               "electron",
@@ -622,7 +622,7 @@
             "open_issues": 36,
             "owner": "chengsokdara",
             "repo": "use-whisper",
-            "stars": 786,
+            "stars": 785,
             "topics": [
               "api",
               "hook",
@@ -674,7 +674,7 @@
             "open_issues": 2,
             "owner": "Majdoddin",
             "repo": "nlp",
-            "stars": 489,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -783,7 +783,7 @@
             "id": 1176188387,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T08:41:10Z",
+            "last_commit": "2026-11-02T12:59:26Z",
             "open_issues": 1,
             "owner": "Hugo0",
             "repo": "voiceio",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:36:33.697Z",
+    "last_updated": "2026-11-02T16:15:21.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
