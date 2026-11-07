@@ -19,7 +19,7 @@
             "open_issues": 181,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112083,
+            "stars": 112156,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -83,10 +83,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-06T05:18:00Z",
-            "open_issues": 360,
+            "open_issues": 361,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54974,
+            "stars": 54992,
             "topics": [
               "inference",
               "openai",
@@ -110,11 +110,11 @@
             "id": 600368121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:19:13Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-06T17:24:51Z",
+            "open_issues": 18,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26525,
+            "stars": 26556,
             "topics": [
               "deep-learning",
               "inference",
@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-22T14:53:44Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 25119,
+            "stars": 25137,
             "topics": [
               "asr",
               "speech",
@@ -352,11 +352,11 @@
             "id": 540842713,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T12:08:34Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-07T06:06:20Z",
+            "open_issues": 20,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22453,
+            "stars": 22473,
             "topics": [
               "whisper"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 24,
             "owner": "mli",
             "repo": "autocut",
-            "stars": 7838,
+            "stars": 7841,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jianfch",
             "repo": "stable-ts",
-            "stars": 2280,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -449,7 +449,7 @@
             "open_issues": 39,
             "owner": "schibsted",
             "repo": "WAAS",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -556,7 +556,7 @@
             "open_issues": 0,
             "owner": "Blue-B",
             "repo": "WhisperSubTranslate",
-            "stars": 833,
+            "stars": 835,
             "topics": [
               "desktop-app",
               "electron",
@@ -741,11 +741,11 @@
             "id": 1110874237,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T22:20:01Z",
+            "last_commit": "2026-11-06T20:49:13Z",
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "accessibility",
               "ai",
@@ -773,6 +773,48 @@
         },
         {
           "node_type": "item",
+          "title": "YazSes - Offline hold-to-talk dictation for Linux (X11 and Wayland), macOS and Windows, built on faster-whisper; also transcribes recordings and meetings with speaker labels",
+          "description": "MSKazemi/yazses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source, fully-offline-by-default voice dictation for Linux (X11 & Wayland), macOS & Windows. Hold a key, speak, release — on-device faster-whisper types it into any app. Also transcribes recordings & captures meetings with speaker labels. No cloud, no account, no subscription.",
+            "homepage": "https://mskazemi.com/yazses/",
+            "id": 1276657831,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-07T12:45:49Z",
+            "open_issues": 222,
+            "owner": "MSKazemi",
+            "repo": "yazses",
+            "stars": 36,
+            "topics": [
+              "accessibility",
+              "assistive-technology",
+              "dictation",
+              "faster-whisper",
+              "linux",
+              "macos",
+              "meeting-notes",
+              "meeting-transcription",
+              "offline",
+              "privacy",
+              "speaker-diarization",
+              "speech-recognition",
+              "speech-to-text",
+              "transcription",
+              "voice-commands",
+              "voice-dictation",
+              "voice-typing",
+              "wayland",
+              "whisper",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-11-07T13:16:34.001Z"
+        },
+        {
+          "node_type": "item",
           "title": "voiceio - Offline voice dictation for Linux that types into the focused app on Wayland and X11, using Whisper (faster-whisper) or Parakeet",
           "description": "Hugo0/voiceio",
           "children": [],
@@ -783,7 +825,7 @@
             "id": 1176188387,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T15:42:16Z",
+            "last_commit": "2026-11-07T11:08:29Z",
             "open_issues": 0,
             "owner": "Hugo0",
             "repo": "voiceio",
@@ -876,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:24:57.577Z",
+    "last_updated": "2026-11-07T13:16:34.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -884,11 +926,11 @@
       "id": 551217288,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-31T01:50:38Z",
-      "open_issues": 24,
+      "last_commit": "2026-11-07T05:36:43Z",
+      "open_issues": 26,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
-      "stars": 108,
+      "stars": 109,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -904,7 +946,7 @@
         "whisper"
       ]
     },
-    "original_repository_sha": "ca8a2b2c8ccdc638c2ea98e62c9d5b5faef9b1ae",
+    "original_repository_sha": "9f5cc4e186db2876dee241396a26f0f59a3c633b",
     "enhanced_repository": "enhansome/enhansome-openai-whisper",
     "enhanced_repository_description": null,
     "title": "awesome-openai-whisper with stars"
