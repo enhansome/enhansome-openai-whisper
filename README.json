@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 182,
+            "open_issues": 180,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112230,
+            "stars": 112289,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -82,11 +82,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-08T04:01:46Z",
+            "last_commit": "2026-11-09T13:02:33Z",
             "open_issues": 361,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 55011,
+            "stars": 55043,
             "topics": [
               "inference",
               "openai",
@@ -111,10 +111,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T17:24:51Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26584,
+            "stars": 26622,
             "topics": [
               "deep-learning",
               "inference",
@@ -326,10 +326,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-22T14:53:44Z",
-            "open_issues": 218,
+            "open_issues": 220,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 25150,
+            "stars": 25170,
             "topics": [
               "asr",
               "speech",
@@ -352,11 +352,11 @@
             "id": 540842713,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T06:06:20Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-09T07:32:55Z",
+            "open_issues": 20,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22508,
+            "stars": 22555,
             "topics": [
               "whisper"
             ]
@@ -515,6 +515,44 @@
         },
         {
           "node_type": "item",
+          "title": "WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)",
+          "description": "Blue-B/WhisperSubTranslate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.",
+            "homepage": null,
+            "id": 1035884228,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-10T13:33:45Z",
+            "open_issues": 0,
+            "owner": "Blue-B",
+            "repo": "WhisperSubTranslate",
+            "stars": 839,
+            "topics": [
+              "desktop-app",
+              "electron",
+              "hy-mt2",
+              "javascript",
+              "local-first",
+              "machine-translation",
+              "offline",
+              "privacy",
+              "speech-to-text",
+              "srt",
+              "subtitle-generator",
+              "subtitles",
+              "translation",
+              "video",
+              "whisper",
+              "whisper-cpp"
+            ]
+          },
+          "first_seen": "2026-08-28T18:49:41.627Z"
+        },
+        {
+          "node_type": "item",
           "title": "Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper",
           "description": "saharmor/whisper-playground",
           "children": [],
@@ -536,44 +574,6 @@
               "speech-recognition",
               "speech-to-text",
               "whisper"
-            ]
-          },
-          "first_seen": "2026-08-28T18:49:41.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)",
-          "description": "Blue-B/WhisperSubTranslate",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.",
-            "homepage": null,
-            "id": 1035884228,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-10T13:33:45Z",
-            "open_issues": 0,
-            "owner": "Blue-B",
-            "repo": "WhisperSubTranslate",
-            "stars": 835,
-            "topics": [
-              "desktop-app",
-              "electron",
-              "hy-mt2",
-              "javascript",
-              "local-first",
-              "machine-translation",
-              "offline",
-              "privacy",
-              "speech-to-text",
-              "srt",
-              "subtitle-generator",
-              "subtitles",
-              "translation",
-              "video",
-              "whisper",
-              "whisper-cpp"
             ]
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -745,7 +745,7 @@
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "accessibility",
               "ai",
@@ -783,8 +783,8 @@
             "id": 1276657831,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T12:45:49Z",
-            "open_issues": 223,
+            "last_commit": "2026-11-08T22:15:30Z",
+            "open_issues": 225,
             "owner": "MSKazemi",
             "repo": "yazses",
             "stars": 36,
@@ -826,10 +826,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-08T08:39:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Hugo0",
             "repo": "voiceio",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "asr",
               "dictation",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:37:44.810Z",
+    "last_updated": "2026-11-09T16:37:43.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -927,7 +927,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-07T05:36:43Z",
-      "open_issues": 27,
+      "open_issues": 29,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
       "stars": 109,
