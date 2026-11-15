@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112692,
+            "stars": 112760,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -86,7 +86,7 @@
             "open_issues": 369,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 55187,
+            "stars": 55212,
             "topics": [
               "inference",
               "openai",
@@ -114,7 +114,7 @@
             "open_issues": 18,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26740,
+            "stars": 26766,
             "topics": [
               "deep-learning",
               "inference",
@@ -329,7 +329,7 @@
             "open_issues": 218,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 25256,
+            "stars": 25320,
             "topics": [
               "asr",
               "speech",
@@ -356,7 +356,7 @@
             "open_issues": 21,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22768,
+            "stars": 22817,
             "topics": [
               "whisper"
             ]
@@ -449,7 +449,7 @@
             "open_issues": 39,
             "owner": "schibsted",
             "repo": "WAAS",
-            "stars": 2070,
+            "stars": 2071,
             "topics": []
           },
           "first_seen": "2026-08-28T18:49:41.627Z"
@@ -745,7 +745,7 @@
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "whisper-subs",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "accessibility",
               "ai",
@@ -829,7 +829,7 @@
             "open_issues": 0,
             "owner": "Hugo0",
             "repo": "voiceio",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "asr",
               "dictation",
@@ -918,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:39:36.002Z",
+    "last_updated": "2026-11-15T14:05:42.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenAI's Whisper",
@@ -927,7 +927,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-07T05:36:43Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "ancs21",
       "repo": "awesome-openai-whisper",
       "stars": 109,
